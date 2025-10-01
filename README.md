@@ -4,7 +4,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-<img width="1302" height="587" alt="image" src="https://github.com/user-attachments/assets/cdfbbaaf-2c53-4e5f-a601-2d85d6947c3d" />
 
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
